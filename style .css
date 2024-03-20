@@ -24,7 +24,7 @@ body{
  z-index: 100;
 }
 .logo {
-    font-size: 2.5rem;
+    font-size: 2.4rem;
     color: #ededed;
     text-decoration: none;
     font-weight: 600;
@@ -42,7 +42,7 @@ body{
  color: #00acf0;
 }
 #menu-icon{
-    font-size: 3.6rem;
+    font-size: 3.5rem;
     color: #ededed;
     cursor: pointer;
     display: none;
