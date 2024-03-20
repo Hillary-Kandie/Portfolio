@@ -24,7 +24,7 @@ body{
  z-index: 100;
 }
 .logo {
-    font-size: 2.4rem;
+    font-size: 2.5rem;
     color: #ededed;
     text-decoration: none;
     font-weight: 600;
@@ -63,7 +63,7 @@ max-width: 600px;
 .home-content h1{
     font-size: 56px;
     font-weight: 70px;
-    line-height: 13%;
+    line-height: 12%;
 }
 .home-content h1 span{
     color: #ededed;
